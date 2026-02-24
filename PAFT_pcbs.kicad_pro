@@ -633,6 +633,10 @@
     [
       "44926947-e48e-4e04-bb40-de8c52f1099b",
       "RPiUSBC"
+    ],
+    [
+      "cbaac72d-386e-4568-8b57-1183c86134ac",
+      "HBridge"
     ]
   ],
   "text_variables": {}
