@@ -1759,7 +1759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 112.7252 99.06 0)
 			(effects
 				(font
@@ -1835,7 +1835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 177.292 69.85 90)
 			(effects
 				(font
@@ -1911,7 +1911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 170.18 116.84 0)
 			(effects
 				(font
@@ -2064,7 +2064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330Ω"
+		(property "Value" "500Ω"
 			(at 167.64 106.6799 0)
 			(effects
 				(font
@@ -2073,7 +2073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 163.322 105.41 90)
 			(effects
 				(font
@@ -2149,7 +2149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.132 69.85 90)
 			(effects
 				(font
@@ -2225,7 +2225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 197.612 69.85 90)
 			(effects
 				(font
@@ -2301,7 +2301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 187.452 69.85 90)
 			(effects
 				(font
