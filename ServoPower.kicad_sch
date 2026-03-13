@@ -2037,7 +2037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LM2596T-ADJ_LF02:TO170P470X1016X2092-5P"
 			(at 113.03 83.82 0)
 			(effects
 				(font
