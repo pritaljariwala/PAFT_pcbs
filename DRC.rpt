@@ -1,0 +1,612 @@
+** Drc report for PAFT_pcbs.kicad_pcb **
+** Created on 2026-03-15T01:04:30-0700 **
+
+** Found 168 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.7638 in): PTH pad 29 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.8031 in): PTH pad 28 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.8425 in): PTH pad 27 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.7638 in): PTH pad 26 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.8031 in): PTH pad 25 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.8425 in): PTH pad 24 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.7638 in): PTH pad 23 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.8031 in): PTH pad 22 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.8425 in): PTH pad 21 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.7638 in): PTH pad 20 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.8031 in): PTH pad 19 [<no net>] of U4
+[annular_width]: Annular width (board setup constraints min annular width 0.0039 in; actual 0.0020 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.8425 in): PTH pad 18 [<no net>] of U4
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0044 in)
+    Rule: netclass 'Default'; error
+    @(4.1324 in, 2.8028 in): Track [/HBridge/BIN2] on F.Cu, length 0.0375 in
+    @(4.1472 in, 2.7609 in): PTH pad 23 [unconnected-(J6-BCM11_SCLK-Pad23)] of J6
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0044 in)
+    Rule: netclass 'Default'; error
+    @(4.1606 in, 2.7028 in): Track [/HBridge/BIN2] on F.Cu, length 0.0641 in
+    @(4.1472 in, 2.6609 in): PTH pad 24 [unconnected-(J6-BCM8_CE0-Pad24)] of J6
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0065 in)
+    Rule: netclass 'Default'; error
+    @(4.1472 in, 2.6609 in): PTH pad 24 [unconnected-(J6-BCM8_CE0-Pad24)] of J6
+    @(4.1965 in, 2.7387 in): Track [/HBridge/BIN2] on F.Cu, length 0.0508 in
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0040 in)
+    Rule: netclass 'Default'; error
+    @(3.0472 in, 2.7609 in): PTH pad 1 [unconnected-(J6-3.3V-Pad1)] of J6
+    @(3.0059 in, 3.2027 in): Track [/HBridge/AIN2] on F.Cu, length 0.4640 in
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0059 in)
+    Rule: netclass 'Default'; error
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+    @(3.0246 in, 3.8031 in): PTH pad 25 [<no net>] of U4
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0059 in)
+    Rule: netclass 'Default'; error
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+    @(2.9774 in, 3.8031 in): PTH pad 22 [<no net>] of U4
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0076 in)
+    Rule: netclass 'Default'; error
+    @(3.0059 in, 2.7387 in): Track [/HBridge/AIN2] on F.Cu, length 0.0375 in
+    @(3.0472 in, 2.7609 in): PTH pad 1 [unconnected-(J6-3.3V-Pad1)] of J6
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0070 in)
+    Rule: netclass 'Default'; error
+    @(4.1472 in, 2.7609 in): PTH pad 23 [unconnected-(J6-BCM11_SCLK-Pad23)] of J6
+    @(3.9965 in, 2.9387 in): Track [/HBridge/BIN2] on F.Cu, length 0.1922 in
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(3.0719 in, 3.7638 in): PTH pad 29 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(3.0719 in, 3.8031 in): PTH pad 28 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(3.0719 in, 3.8425 in): PTH pad 27 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(3.0246 in, 3.7638 in): PTH pad 26 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0610 in)
+    Rule: netclass 'Default'; error
+    @(3.0246 in, 3.8031 in): PTH pad 25 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(3.0246 in, 3.8425 in): PTH pad 24 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(2.9774 in, 3.7638 in): PTH pad 23 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0610 in)
+    Rule: netclass 'Default'; error
+    @(2.9774 in, 3.8031 in): PTH pad 22 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(2.9774 in, 3.8425 in): PTH pad 21 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(2.9301 in, 3.7638 in): PTH pad 20 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(2.9301 in, 3.8031 in): PTH pad 19 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0079 in; actual 0.0217 in)
+    Rule: netclass 'Default'; error
+    @(2.9301 in, 3.8425 in): PTH pad 18 [<no net>] of U4
+    @(3.0010 in, 3.8031 in): Pad 17 [GND] of U4 on F.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.7638 in): PTH pad 29 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.8031 in): PTH pad 28 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0719 in, 3.8425 in): PTH pad 27 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.7638 in): PTH pad 26 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.8031 in): PTH pad 25 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(3.0246 in, 3.8425 in): PTH pad 24 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.7638 in): PTH pad 23 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.8031 in): PTH pad 22 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9774 in, 3.8425 in): PTH pad 21 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.7638 in): PTH pad 20 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.8031 in): PTH pad 19 [<no net>] of U4
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.0118 in; actual 0.0079 in)
+    Rule: board setup constraints; error
+    @(2.9301 in, 3.8425 in): PTH pad 18 [<no net>] of U4
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(2.8346 in, 2.6673 in): Arc of J6 on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(5.1575 in, 2.6673 in): Arc of J6 on Edge.Cuts
+    @(2.8346 in, 2.5492 in): Segment of J6 on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(5.1575 in, 4.6555 in): Arc of J6 on Edge.Cuts
+    @(5.2756 in, 2.6673 in): Segment of J6 on Edge.Cuts
+[starved_thermal]: Thermal relief connection to zone incomplete (layer In2.Cu; 1 spokes connected to isolated island)
+    Local override; error
+    @(4.2323 in, 3.7500 in): Zone [/ServoPower/Servo_PWR] on In2.Cu, priority 5
+    @(4.5866 in, 3.1496 in): PTH pad 2 [/ServoPower/Servo_PWR] of J2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9555 in, 3.8516 in): Polygon of U4 on F.Mask
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9114 in, 3.6890 in): Pad 16 [/HBridge/AIN1] of U4 on F.Cu
+    @(2.9370 in, 3.6890 in): Pad 15 [/HBridge/AIN2] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9370 in, 3.6890 in): Pad 15 [/HBridge/AIN2] of U4 on F.Cu
+    @(2.9626 in, 3.6890 in): Pad 14 [Net-(U4-VINT)] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9626 in, 3.6890 in): Pad 14 [Net-(U4-VINT)] of U4 on F.Cu
+    @(2.9882 in, 3.6890 in): Pad 13 [GND] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9882 in, 3.6890 in): Pad 13 [GND] of U4 on F.Cu
+    @(3.0138 in, 3.6890 in): Pad 12 [+12V] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0138 in, 3.6890 in): Pad 12 [+12V] of U4 on F.Cu
+    @(3.0394 in, 3.6890 in): Pad 11 [Net-(U4-VINT)] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0394 in, 3.6890 in): Pad 11 [Net-(U4-VINT)] of U4 on F.Cu
+    @(3.0650 in, 3.6890 in): Pad 10 [/HBridge/BIN2] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0650 in, 3.6890 in): Pad 10 [/HBridge/BIN2] of U4 on F.Cu
+    @(3.0906 in, 3.6890 in): Pad 9 [/HBridge/BIN1] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0906 in, 3.9173 in): Pad 8 [Net-(U4-FAULT_N)] of U4 on F.Cu
+    @(3.0650 in, 3.9173 in): Pad 7 [/HBridge/BOUT1] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0650 in, 3.9173 in): Pad 7 [/HBridge/BOUT1] of U4 on F.Cu
+    @(3.0394 in, 3.9173 in): Pad 6 [Net-(U4-BISEN)] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0394 in, 3.9173 in): Pad 6 [Net-(U4-BISEN)] of U4 on F.Cu
+    @(3.0138 in, 3.9173 in): Pad 5 [/HBridge/BOUT2] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(3.0138 in, 3.9173 in): Pad 5 [/HBridge/BOUT2] of U4 on F.Cu
+    @(2.9882 in, 3.9173 in): Pad 4 [/HBridge/AOUT2] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9882 in, 3.9173 in): Pad 4 [/HBridge/AOUT2] of U4 on F.Cu
+    @(2.9626 in, 3.9173 in): Pad 3 [Net-(U4-AISEN)] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9626 in, 3.9173 in): Pad 3 [Net-(U4-AISEN)] of U4 on F.Cu
+    @(2.9370 in, 3.9173 in): Pad 2 [/HBridge/AOUT1] of U4 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(2.9370 in, 3.9173 in): Pad 2 [/HBridge/AOUT1] of U4 on F.Cu
+    @(2.9114 in, 3.9173 in): Pad 1 [/HBridge/SLEEP_N] of U4 on F.Cu
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(2.8150 in, 3.5620 in): Track [Net-(U4-VINT)] on B.Cu, length 0.0581 in
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(2.9931 in, 3.8031 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(2.8150 in, 3.5620 in): Via [Net-(U4-VINT)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.0472 in, 2.6609 in): Via [+5V] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(4.9472 in, 2.7609 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(4.0850 in, 4.5730 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.5024 in, 3.4252 in): Via [+5V] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(4.8720 in, 3.2283 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.7770 in, 3.2307 in): Via [+5V] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.3760 in, 3.0315 in): Via [+5V] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.1102 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.3760 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(4.0850 in, 4.4390 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(3.0906 in, 4.5768 in): Via [GND] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(4.6063 in, 4.6358 in): Via [GND] on F.Cu - B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.8346 in, 4.6555 in): Arc of J6 on Edge.Cuts
+    @(2.7165 in, 2.6673 in): Segment of J6 on F.Silkscreen
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.6024 in, 3.5252 in): Via [Net-(J3-Pin_5)] on F.Cu - B.Cu
+    @(3.6024 in, 3.5252 in): PTH pad 5 [Net-(J3-Pin_5)] of J3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.0472 in, 2.6609 in): Via [+5V] on F.Cu - B.Cu
+    @(3.0472 in, 2.6609 in): PTH pad 2 [+5V] of J6
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1472 in, 2.7609 in): PTH pad 3 [/ServoDriver/SDA] of J6
+    @(3.1472 in, 2.7609 in): Via [/ServoDriver/SDA] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(2.8150 in, 2.8740 in): Via [/ServoDriver/SDA] on F.Cu - B.Cu
+    @(2.8150 in, 2.8740 in): PTH pad 1 [/ServoDriver/SDA] of TP7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.9472 in, 2.7609 in): PTH pad 39 [GND] of J6
+    @(4.9472 in, 2.7609 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0850 in, 4.5730 in): Via [GND] on F.Cu - B.Cu
+    @(4.0850 in, 4.5631 in): PTH pad 5 [GND] of U1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.5024 in, 3.4252 in): PTH pad 4 [+5V] of J3
+    @(3.5024 in, 3.4252 in): Via [+5V] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.8720 in, 3.2283 in): Via [GND] on F.Cu - B.Cu
+    @(4.8720 in, 3.2283 in): PTH pad 3 [GND] of J1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.5866 in, 3.2283 in): Via [GND] on F.Cu - B.Cu
+    @(4.5866 in, 3.2283 in): PTH pad 3 [GND] of J2
+[hole_to_hole]: Drilled hole too close to other hole (board setup constraints min 0.0098 in; actual 0.0000 in)
+    Rule: board setup constraints; warning
+    @(4.0770 in, 2.9307 in): PTH pad 4 [GND] of U3
+    @(4.0772 in, 2.9307 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7770 in, 3.2307 in): Via [+5V] on F.Cu - B.Cu
+    @(3.7770 in, 3.2307 in): PTH pad 8 [+5V] of U3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(2.8150 in, 3.2874 in): Via [+5V] on F.Cu - B.Cu
+    @(2.8150 in, 3.2874 in): PTH pad 1 [+5V] of TP4
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1102 in, 3.0315 in): Via [+5V] on F.Cu - B.Cu
+    @(3.1102 in, 3.0315 in): PTH pad 1 [+5V] of J7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.3760 in, 3.0315 in): PTH pad 1 [+5V] of J10
+    @(3.3760 in, 3.0315 in): Via [+5V] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1102 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+    @(3.1102 in, 3.1890 in): PTH pad 3 [GND] of J7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.3760 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+    @(3.3760 in, 3.1890 in): PTH pad 3 [GND] of J10
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.6024 in, 3.4252 in): Via [GND] on F.Cu - B.Cu
+    @(3.6024 in, 3.4252 in): PTH pad 6 [GND] of J3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7992 in, 3.6024 in): Via [GND] on F.Cu - B.Cu
+    @(3.7992 in, 3.6024 in): PTH pad 2 [GND] of SW1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0551 in, 3.6024 in): Via [GND] on F.Cu - B.Cu
+    @(4.0551 in, 3.6024 in): PTH pad 2 [GND] of SW1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0850 in, 4.4390 in): Via [GND] on F.Cu - B.Cu
+    @(4.0850 in, 4.4291 in): PTH pad 3 [GND] of U1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.0906 in, 4.5768 in): PTH pad 1 [GND] of J8
+    @(3.0906 in, 4.5768 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7697 in, 4.5755 in): Via [GND] on F.Cu - B.Cu
+    @(3.7697 in, 4.5755 in): PTH pad 2 [GND] of J9
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.6063 in, 4.6358 in): PTH pad 1 [GND] of TP2
+    @(4.6063 in, 4.6358 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.9472 in, 2.7609 in): PTH pad 39 [GND] of J6
+    @(4.9472 in, 2.7609 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1472 in, 2.7609 in): PTH pad 3 [/ServoDriver/SDA] of J6
+    @(3.1472 in, 2.7609 in): Via [/ServoDriver/SDA] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.0472 in, 2.6609 in): Via [+5V] on F.Cu - B.Cu
+    @(3.0472 in, 2.6609 in): PTH pad 2 [+5V] of J6
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.5866 in, 3.2283 in): Via [GND] on F.Cu - B.Cu
+    @(4.5866 in, 3.2283 in): PTH pad 3 [GND] of J2
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0850 in, 4.4390 in): Via [GND] on F.Cu - B.Cu
+    @(4.0850 in, 4.4291 in): PTH pad 3 [GND] of U1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0850 in, 4.5730 in): Via [GND] on F.Cu - B.Cu
+    @(4.0850 in, 4.5631 in): PTH pad 5 [GND] of U1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(2.8150 in, 3.2874 in): Via [+5V] on F.Cu - B.Cu
+    @(2.8150 in, 3.2874 in): PTH pad 1 [+5V] of TP4
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.5024 in, 3.4252 in): PTH pad 4 [+5V] of J3
+    @(3.5024 in, 3.4252 in): Via [+5V] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.6024 in, 3.5252 in): Via [Net-(J3-Pin_5)] on F.Cu - B.Cu
+    @(3.6024 in, 3.5252 in): PTH pad 5 [Net-(J3-Pin_5)] of J3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.6024 in, 3.4252 in): Via [GND] on F.Cu - B.Cu
+    @(3.6024 in, 3.4252 in): PTH pad 6 [GND] of J3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7697 in, 4.5755 in): Via [GND] on F.Cu - B.Cu
+    @(3.7697 in, 4.5755 in): PTH pad 2 [GND] of J9
+[hole_to_hole]: Drilled hole too close to other hole (board setup constraints min 0.0098 in; actual 0.0000 in)
+    Rule: board setup constraints; warning
+    @(4.0770 in, 2.9307 in): PTH pad 4 [GND] of U3
+    @(4.0772 in, 2.9307 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7770 in, 3.2307 in): Via [+5V] on F.Cu - B.Cu
+    @(3.7770 in, 3.2307 in): PTH pad 8 [+5V] of U3
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.7992 in, 3.6024 in): Via [GND] on F.Cu - B.Cu
+    @(3.7992 in, 3.6024 in): PTH pad 2 [GND] of SW1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.0551 in, 3.6024 in): Via [GND] on F.Cu - B.Cu
+    @(4.0551 in, 3.6024 in): PTH pad 2 [GND] of SW1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.6063 in, 4.6358 in): PTH pad 1 [GND] of TP2
+    @(4.6063 in, 4.6358 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.0906 in, 4.5768 in): PTH pad 1 [GND] of J8
+    @(3.0906 in, 4.5768 in): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.3760 in, 3.0315 in): PTH pad 1 [+5V] of J10
+    @(3.3760 in, 3.0315 in): Via [+5V] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.3760 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+    @(3.3760 in, 3.1890 in): PTH pad 3 [GND] of J10
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(2.8150 in, 2.8740 in): Via [/ServoDriver/SDA] on F.Cu - B.Cu
+    @(2.8150 in, 2.8740 in): PTH pad 1 [/ServoDriver/SDA] of TP7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1102 in, 3.0315 in): Via [+5V] on F.Cu - B.Cu
+    @(3.1102 in, 3.0315 in): PTH pad 1 [+5V] of J7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(3.1102 in, 3.1890 in): Via [GND] on F.Cu - B.Cu
+    @(3.1102 in, 3.1890 in): PTH pad 3 [GND] of J7
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(4.8720 in, 3.2283 in): Via [GND] on F.Cu - B.Cu
+    @(4.8720 in, 3.2283 in): PTH pad 3 [GND] of J1
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(4.1929 in, 3.3204 in): Footprint R3
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(4.2421 in, 3.0315 in): Footprint R7
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x03_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(4.5866 in, 3.0709 in): Footprint J2
+[lib_footprint_mismatch]: Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.
+    Local override; warning
+    @(5.0571 in, 4.2126 in): Footprint Cfeedback1
+[lib_footprint_mismatch]: Footprint 'PinHeader_2x03_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    Local override; warning
+    @(3.4024 in, 3.5252 in): Footprint J3
+[lib_footprint_mismatch]: Footprint 'TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm' does not match copy in library 'TerminalBlock'.
+    Local override; warning
+    @(3.5728 in, 4.5755 in): Footprint J9
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(5.0527 in, 4.3307 in): Footprint Rfeedback2
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(3.6353 in, 2.9331 in): Footprint R4
+[lib_footprint_mismatch]: Footprint 'TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm' does not match copy in library 'TerminalBlock'.
+    Local override; warning
+    @(3.0906 in, 4.5768 in): Footprint J8
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x03_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(3.3760 in, 3.0315 in): Footprint J10
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(5.0527 in, 4.4390 in): Footprint Rfeedback1
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(3.6353 in, 3.1299 in): Footprint R6
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(2.8839 in, 4.2421 in): Footprint J4
+[lib_footprint_mismatch]: Footprint 'D_3220_8050Metric' does not match copy in library 'Diode_SMD'.
+    Local override; warning
+    @(4.0650 in, 4.0133 in): Footprint D1
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x03_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(3.1102 in, 3.0315 in): Footprint J7
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(3.2579 in, 4.2421 in): Footprint J5
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(3.2613 in, 3.9173 in): Footprint 10kohm1
+[lib_footprint_mismatch]: Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.
+    Local override; warning
+    @(2.9331 in, 3.5020 in): Footprint 0.1uF1
+[lib_footprint_mismatch]: Footprint 'C_1210_3225Metric' does not match copy in library 'Capacitor_SMD'.
+    Local override; warning
+    @(2.8150 in, 3.5039 in): Footprint 2.2uF1
+[lib_footprint_mismatch]: Footprint 'R_1210_3225Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(3.0989 in, 4.0650 in): Footprint 1.5ohms1
+[lib_footprint_mismatch]: Footprint 'R_1210_3225Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(2.8755 in, 4.0650 in): Footprint 1.5ohms2
+[lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
+    Local override; warning
+    @(4.2456 in, 3.1693 in): Footprint R5
+[lib_footprint_mismatch]: Footprint 'C_1206_3216Metric' does not match copy in library 'Capacitor_SMD'.
+    Local override; warning
+    @(3.0512 in, 3.4843 in): Footprint 10uF1
+[lib_footprint_mismatch]: Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.
+    Local override; warning
+    @(3.6339 in, 3.2283 in): Footprint C3
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x03_P2.00mm_Vertical' does not match copy in library 'Connector_PinHeader_2.00mm'.
+    Local override; warning
+    @(4.8720 in, 3.0709 in): Footprint J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(3.6614 in, 4.3739 in): Reference field of J9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(5.0527 in, 4.3957 in): Reference field of Rfeedback2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.8669 in, 3.5020 in): Reference field of 0.1uF1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.9055 in, 3.5039 in): Reference field of 2.2uF1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.9783 in, 3.4843 in): Reference field of 10uF1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(3.9270 in, 3.3224 in): Reference field of U3
+    @(3.9272 in, 3.3465 in): Reference field of SW1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(5.0616 in, 4.4100 in): Segment of Rfeedback1 on F.Silkscreen
+    @(5.0527 in, 4.3957 in): Reference field of Rfeedback2
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(4.7854 in, 3.8051 in): Reference field of C2
+    @(4.7697 in, 3.5472 in): Segment of L1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(3.2613 in, 3.9823 in): Reference field of 10kohm1
+    @(3.0989 in, 3.9752 in): Reference field of 1.5ohms1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(2.9055 in, 3.5039 in): Reference field of 2.2uF1
+    @(2.8669 in, 3.5020 in): Reference field of 0.1uF1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(2.8685 in, 3.5319 in): Segment of 2.2uF1 on B.Silkscreen
+    @(2.8669 in, 3.5020 in): Reference field of 0.1uF1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(2.9055 in, 3.5039 in): Reference field of 2.2uF1
+    @(2.9041 in, 3.4917 in): Segment of 0.1uF1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(2.9783 in, 3.4843 in): Reference field of 10uF1
+    @(2.9620 in, 3.4917 in): Segment of 0.1uF1 on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
