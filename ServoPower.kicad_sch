@@ -1665,7 +1665,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15b7171b-9e55-4e33-97f4-fe7a3e6b369c")
-		(property "Reference" "Cfeedback1"
+		(property "Reference" "Cf1"
 			(at 198.1263 45.72 90)
 			(effects
 				(font
@@ -1717,7 +1717,7 @@
 		(instances
 			(project "PAFT_pcbs"
 				(path "/8372e765-ead7-42d0-82da-59a3937ad504/15a8a804-fdd6-4fa4-9fe0-6b70c3520bb0"
-					(reference "Cfeedback1")
+					(reference "Cf1")
 					(unit 1)
 				)
 			)
@@ -1937,7 +1937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "755b0827-6cc0-48dc-a9d8-511eaf9a791e")
-		(property "Reference" "Rfeedback1"
+		(property "Reference" "Rf1"
 			(at 184.15 45.72 90)
 			(effects
 				(font
@@ -1989,7 +1989,7 @@
 		(instances
 			(project "PAFT_pcbs"
 				(path "/8372e765-ead7-42d0-82da-59a3937ad504/15a8a804-fdd6-4fa4-9fe0-6b70c3520bb0"
-					(reference "Rfeedback1")
+					(reference "Rf1")
 					(unit 1)
 				)
 			)
@@ -2150,7 +2150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c47232e6-6de2-4855-9a7e-3b9acca0a04f")
-		(property "Reference" "Rfeedback2"
+		(property "Reference" "Rf2"
 			(at 198.12 58.42 90)
 			(effects
 				(font
@@ -2202,7 +2202,7 @@
 		(instances
 			(project "PAFT_pcbs"
 				(path "/8372e765-ead7-42d0-82da-59a3937ad504/15a8a804-fdd6-4fa4-9fe0-6b70c3520bb0"
-					(reference "Rfeedback2")
+					(reference "Rf2")
 					(unit 1)
 				)
 			)
